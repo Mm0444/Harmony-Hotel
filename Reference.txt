@@ -1,0 +1,9 @@
+1.ข้อมูลกฎหมายการจ่ายภาษีของกิจการโรงแรม https://www.rd.go.th/fileadmin/user_upload/morkor/km/guidebook/hotel.pdf
+2.กฏหมายกําหนดประเภทและหลักเกณฑ์การประกอบธุรกิจโรงแรม https://download.asa.or.th/03media/04law/ha/mr51.pdf
+3.“Principal Statistics on Hotels and Guest House” ใน Statistical Yearbook 2025 แสดงจำนวนโรงแรม &เกสต์เฮาส์ (รวม) สำหรับปี 2565 (2022) → “30,786 แห่ง” https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2025_webPage/File%20SYB/2025/17/T%2017.4%202025.pdf
+4.สถานการณ์การท่องเที่ยวในประเทศ รายจังหวัด รายเดือน ปี 2567 (Domestic Tourism Statistics ( Classify by region and province 2024)) (ผ่านคณะกรรมการฯ กำกับสถิติ)) https://www.mots.go.th/news/category/760
+5.สถิตินักท่องเที่ยวชาวต่างชาติที่เดินทางเข้าประเทศไทย ม.ค. - ต.ค. ปี 2568 (เบื้องต้น) ( International Tourist Arrivals to Thailand Jan - Oct 2025P) https://www.mots.go.th/news/category/806
+6.ชุดข้อมูลโรงแรมภายในกรุงเทพฯ https://www.kaggle.com/datasets/raj713335/tbo-hotels-dataset
+7.ค่าใช้จ่ายของสถานประกอบการที่ดำเนินกิจการ (สำรวจที่พักแรม) https://gdcatalog.go.th/dataset/gdpublishos_17_00008
+8.รายได้ของโรงแรมจำแนกตามขนาด https://www.lhbank.co.th/getattachment/6788d11e-c993-4734-97cb-9e7da2921290/economic-analysis-economic-update-2024-Thai-Economic-and-Financial-Update-May-2024?utm_source=chatgpt.com
+9.Data Analytics Process https://www.rudderstack.com/learn/data-analytics/data-analytics-processes/
