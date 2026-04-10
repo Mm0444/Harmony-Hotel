@@ -1,8 +1,13 @@
-# 🏨 Harmony Hotel — Data Analytics Project
+<div align="center">
+  <h1>🏨 Harmony Hotel — Data Analytics Project </h1>
+ 
 
-> **CS4473** | Hotel Business Data Analysis & Dashboard Design
+  <p>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
 
----
+  </p>
+</div>
 
 ## 📋 Project Overview
 
@@ -50,19 +55,14 @@ Open the `.pbix` file in **Power BI Desktop** to explore the interactive dashboa
 
 ---
 
-## 📊 Dashboard Preview
-
-> *(Add a screenshot of your Power BI dashboard here)*
-
----
-
 ## 👩‍💻 Author
 
-**CS4473 — Data Analytics**  
+Maneeya Oustaruk
+Computer Science
 Faculty of Science and Technology  
 
 ---
 
 ## 📄 License
 
-This project is created for **educational purposes** as part of the CS4473 coursework.
+This project is created for **educational purposes** as part of Data Analytics Project coursework.
